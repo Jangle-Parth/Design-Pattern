@@ -1,0 +1,10 @@
+ when we create a complex object we use builder design pattern
+eg for car we need tyres,engine etc
+
+for example i have to change the engine oil or i dont want to give app parts just need to give some parts
+
+1) desktop
+dekstop builder
+two types dell and hp
+both will have own config
+therse will implement all type of like builde ram build montior etc
